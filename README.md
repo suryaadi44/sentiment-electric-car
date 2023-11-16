@@ -1,3 +1,3 @@
 # svm-sentiment-analysis
 
-Datasource: https://dx.doi.org/10.20473/jisebi.6.2.112-122
+Datasource: https://www.kaggle.com/code/billycemerson/analisis-sentimen-intensif-mobil-listrik-svm/notebook
